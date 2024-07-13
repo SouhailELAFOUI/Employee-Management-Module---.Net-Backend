@@ -43,10 +43,6 @@ To get started with this project, follow these steps:
     dotnet run
     
 
- 
-
-The application should now be running and accessible through `http://localhost:/`.
-
 Employee Object
 
 The employee records are stored with the following properties:
